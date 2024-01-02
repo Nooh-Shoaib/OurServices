@@ -3,7 +3,10 @@
     {
       "slug": "custom-web-development",
       "id": "custom-web-development",
-      "pageTitle": "Custom Web Development Services",
+      "breadcrumbs": {
+        "pageTitle": "Custom Web Development Services",
+        "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kj4fcbvn3pija25jb5zi.jpg"
+      },
       "description": [
         {
           "heading": "One Stop Personalized Web Development Solutions",
@@ -72,7 +75,8 @@
             }
           ]
         }
-      ]
+      ],
+      "backgroundimage": ""
     }
   ]
 }
