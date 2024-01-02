@@ -7,13 +7,20 @@
       "description": [
         {
           "heading": "One Stop Personalized Web Development Solutions",
-          "text": "Your company’s website is the digital face of your business, we make sure that it is representable and perfect. The Custom Websites is a company that provides solutions to your digital problems and needs. From developing customized web design for your website to the development of an e-commerce website, we provide all the services in between. We have a team of expert developers who listen to your ideas and develop a personalized website for you. We develop websites with visually appealing and responsive designs. Moreover, our experts will optimize your website for the Google search engine so that your customers can easily find you and boost your company’s growth. We care about the time and budget of our customers so we provide exceptionally affordable custom web design services. We work on platforms such as Joomla, Drupal, WordPress, Shopify, Wix, and more. contact us today to hire the best developer for your company."
+          "text": "Your company’s website is the digital face of your business, we make sure that it is representable and perfect. The Custom Websites is a company that provides solutions to your digital problems and needs. From developing customized web design for your website to the development of an e-commerce website, we provide all the services in between. We have a team of expert developers who listen to your ideas and develop a personalized website for you. We develop websites with visually appealing and responsive designs. Moreover, our experts will optimize your website for the Google search engine so that your customers can easily find you and boost your company’s growth. We care about the time and budget of our customers so we provide exceptionally affordable custom web design services. We work on platforms such as Joomla, Drupal, WordPress, Shopify, Wix, and more. Contact us today to hire the best developer for your company."
         }
       ],
       "tech": [
         {
           "techHeading": "We Create Custom Websites With The Latest Technologies",
-          "techText": "‘The Custom Websites’ provides services using the latest web development technologies, including which include Java, PHP, Drupal, Nodejs, HTML 5, Angularjs, .net, WordPress, and more. We have experts for each platform who are armed with outstanding skills to meet your business requirements and help you grow your digitized business through customized websites."
+          "techText": "‘The Custom Websites’ provides services using the latest web development technologies, including Java, PHP, Drupal, Nodejs, HTML 5, Angularjs, .net, WordPress, and more.",
+          "cards": [
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/zeamaxh9rowpcomtmeko.png",
+              "heading": "WordPress",
+              "text": ""
+            }
+          ]
         }
       ]
     }
