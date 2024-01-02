@@ -19,6 +19,56 @@
               "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/zeamaxh9rowpcomtmeko.png",
               "heading": "WordPress",
               "text": "WordPress is the most commonly used open-source and free platform. It is used by developers to create search engine optimized blogs, websites, and applications. It has over 55,000 plugins to help you customize your website."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/tdqk7l3tbtuasyotvhme.png",
+              "heading": "Php",
+              "text": "PHP is one of the most famous scripting languages used by developers for general purposes. It was initially designed by Danish-Canadian. PHP is used to develop highly potent and slick websites, mobile applications, and software."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/v2uqvzfc3zhcyb6ht6ui.png",
+              "heading": "Node.js",
+              "text": "Node JS is a free, open-source environment that uses JavaScript on the back-end to develop fast and expansive applications. It runs on various platforms such as Unix, Linux, Windows, Mac OS, etc."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/React-Developer_TheCustomWebsites.png",
+              "heading": "React.js",
+              "text": "React JS is an open-source, JavaScript-based, most popular front-end library that is used to develop web applications and user interfaces. It is maintained by a group of developers and Facebook."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/rmxjjc64fnyvhnedyd3n-1.png",
+              "heading": "Drupal",
+              "text": "Drupal is an open-source framework that can be used, copied, or changed by anyone according to their requirements. Drupal provides server-end support to hundreds of websites, including informational, political, and governmental websites."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/hnbqdph0iv7u8ldtvbsx.png",
+              "heading": "Java",
+              "text": "Java is the #1 high-level programing language that is used extensively by developers for the development of web applications, mobile applications, and much more. Software made through Java runs smoothly and is user-friendly."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/x5ttal7svctzo9xayt3l.png",
+              "heading": "Html 5",
+              "text": "HTML 5 is the fifth and the latest version of HTML. It is used to develop slick websites and applications that run on different platforms. HTML 5 uses technologies for providing an enriched user experience."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/anf17zyh7vijr7deshhd.png",
+              "heading": "Angular",
+              "text": "Angular JS is an open-source web framework that is based on JavaScript. It extends the HTML language to meet your web development needs. It can be modified to develop a framework that suits best your website or application."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/gukr7tqz1lvio03stwyd.png",
+              "heading": ".Net",
+              "text": ".Net is a popular open-source platform with tools that help developers build web applications, mobile or desktop applications, games, and more. It is developed and maintained by Microsoft."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/m8m3o4812icdsa1zihez.png",
+              "heading": "Vue.Js",
+              "text": "Vue JS is a JavaScript-based open-source framework. It is a front-end platform used by developers and programmers to build UIs or User Interfaces. It is created and maintained by Evan You."
+            },
+            {
+              "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/yodvkph8ojujdtp18wbz.png",
+              "heading": "Owasp",
+              "text": "Open Web Application Security Project also known as OWASP is a non-profit online platform that was founded in 2001. The main aim of this platform is to help developers and website owners protect their websites and apps from cyber threats."
             }
           ]
         }
