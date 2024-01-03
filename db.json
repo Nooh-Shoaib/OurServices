@@ -5,7 +5,7 @@
 "id": "custom-web-development",
 "breadcrumbs": {
 "pageTitle": "Custom Web Development Services",
-  "category": "Custom Web Development",
+ "category": "Custom Web Development",
 "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kj4fcbvn3pija25jb5zi.jpg"
 },
 "description": [
@@ -63,6 +63,16 @@
 "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/gukr7tqz1lvio03stwyd.png",
 "heading": ".Net",
 "text": ".Net is a popular open-source platform with tools that help developers build web applications, mobile or desktop applications, games, and more. It is developed and maintained by Microsoft."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/m8m3o4812icdsa1zihez.png",
+"heading": "Vue JS",
+"text": "Vue JS is a JavaScript-based open-source framework. It is a front-end platform used by developers and programmers to build UIs or User Interfaces. It is created and maintained by Evan You."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/yodvkph8ojujdtp18wbz.png",
+"heading": "Owasp",
+"text": "Open Web Application Security Project also known as OWASP is a non-profit online platform that was founded in 2001. The main aim of this platform is to help developers and website owners protect their websites and apps from cyber threats."
 }
 ]
 }
